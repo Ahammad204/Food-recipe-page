@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="https://legacy.devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://imgur.com/a/KujtUcH)
+![screenshot](https://imgbox.com/UTPTjiq0)
 
 If Image is not working click [Here](https://imgur.com/a/KujtUcH)
 
