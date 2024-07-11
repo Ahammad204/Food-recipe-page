@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Interior Consultant</h1>
+<h1 align="center">Food Recipe Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Dev challenges</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://ahammad204.github.io/interior-consultant/">
+    <a href="https://ahammad204.github.io/Food-recipe-page/">
       Live Link
     </a>
     <span> | </span>
@@ -36,9 +36,9 @@
 
 ## Overview
 
-![screenshot](https://i.ibb.co/hdv8MkV/Screenshot-2024-06-14-201151.png)
+![screenshot](<blockquote class="imgur-embed-pub" lang="en" data-id="a/KujtUcH" data-context="false" ><a href="//imgur.com/a/KujtUcH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
-If Image is not working click [Here](https://i.ibb.co/hdv8MkV/Screenshot-2024-06-14-201151.png)
+If Image is not working click [Here](https://imgur.com/a/KujtUcH)
 
 ### Built With
 
@@ -53,7 +53,7 @@ If Image is not working click [Here](https://i.ibb.co/hdv8MkV/Screenshot-2024-06
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
