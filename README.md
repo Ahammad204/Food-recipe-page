@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://imgbox.com/UTPTjiq0)
+![screenshot](https://i.ibb.co/RYcmvC7/ahammad204-github-io-Food-recipe-page.png)
 
 If Image is not working click [Here](https://imgur.com/a/KujtUcH)
 
