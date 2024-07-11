@@ -36,7 +36,7 @@
 
 ## Overview
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/KujtUcH" data-context="false" ><a href="//imgur.com/a/KujtUcH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![screenshot](https://imgur.com/a/KujtUcH)
 
 If Image is not working click [Here](https://imgur.com/a/KujtUcH)
 
