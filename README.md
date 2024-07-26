@@ -12,7 +12,7 @@
       Live Link
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/solutions/Ig7zeejP4i0IU7U3d4wi">
+    <a href="https://legacy.devchallenges.io/solutions/QYlE9XmOOqBL2jA2OcdA">
       Solution
     </a>
     <span> | </span>
